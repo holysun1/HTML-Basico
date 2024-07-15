@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title> HTML </title>
+    </head>
+    <body>
+        <h1 id="titulo"> Texto Título </h1>
+        <h2> Texto Subtítulo </h2>
+        <i> Texto em itálico </i>
+        <p><strong> Texto em negrtito </strong></p>
+        <p><strong id="titulo"> Texto </strong></p>
+        <p><strong style="color:blue">  Texto em uma cor pré definida </strong></p>
+        <p>
+            Área para captar um texto, utilizado principalmente em formulários
+            <input type="text" />
+        </p>
+        <p>
+            Área para captar um número, também utilizado em formulários
+            <input type="number"/>
+        </p>
+        <p><input type="color"></p>
+        <img width="150" src="https://images.tcdn.com.br/img/img_prod/1180864/adesivo_caveira_bad_15cm_moto_ou_carro_varias_cores_alta_qualidade_1465_1_c42d12dc589396c71d413e8922519ddb.jpg">
+        <blockquote> Texto </blockquote>
+        <ol>
+            <li>Item 1 da Lista ordenada</li>
+            <li>Item 2 da Lista</li>
+            <li>Item 3 da Lista</li>
+            <ol>
+                <li>Item 1 da Lista secundária</li>
+            </ol>
+        </ol>
+        <ul> 
+            <li> Lista não ordenada</li>
+            <li> Lista não ordenada 2</li>
+            </ul>
+
+        <p><a href="#titulo" title="Clique Aqui"> Voltar ao Titulo Inicial</a></p>
+
+        <a href="#titulo" target="_blank" title="Clique Aqui">Voltar ao Titulo Inicial em outra aba</a>
+</html>
