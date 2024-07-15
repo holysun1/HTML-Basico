@@ -1,0 +1,90 @@
+<html>
+    <head>
+        <title> INTERNET </title>
+    </head>
+    <body>
+        <h1>Sobre a Internet</h1>
+        <img style="position: absolute; left: 40%; top: 5%;" width="450" src="https://images.spiceworks.com/wp-content/uploads/2023/02/20174832/A-symbolic-image-of-the-power-and-ubiquity-of-the-internet.-768x384.jpg">
+        <p><h2>Índice</h2></p>
+        <ol>
+            <li><a href="#História" title="Clique Aqui"> História</a></li>
+            <li><a href="#Resumo" title="Clique Aqui">Resumo</a></li>
+            <li><a href="#Importância" title="Clique Aqui">Importância</a></li>
+            <li><a href="#Vantagem" title="Clique Aqui">Vantagens</a></li>
+            <li><a href="#Benefício" title="Clique Aqui">Benefícios</a></li>
+            <li><a href="#Perigo" title="Clique Aqui">Perigos</a></li>
+            <li><a href="#Referências" title="Clique Aqui">Referências</a></li>
+        </ol>
+        <p><h2 id="História"><i>História</i></h2></p>
+        <blockquote>A história da internet teve início com a Arpanet, 
+            uma rede de troca de informações que havia sido desenvolvida para
+            conectar instalações de pesquisas e militares com o Pentágono, 
+            nos Estados Unidos, na década de 1960. O crescimento dessa rede permitiu
+            que seu uso se estendesse para fins privados e comerciais. 
+            A internet chegou ao Brasil somente no final da década de 1980.</blockquote> 
+        <h3 id="Resumo"><p><i>Resumo</i></p></h3>
+        <ul>
+            <li>A internet surgiu, na década de 1960, como uma rede (chamada Arpanet)
+                para envio de informações entre centro de pesquisas e instalações
+                militares e o Pentágono.</li>
+            <li>A primeira mensagem enviada se deu entre computadores da <abbr title="Universidade da Califórnia"> UCLA </abbr> e da SRI,
+                instituições universitárias dos Estados Unidos.
+            </li>
+            <li>Na década de 1980, a internet expandiu seu uso para fins comerciais e 
+                privados.
+            </li>
+            <li>A rede chegou ao Brasil em <strong>1988</strong>, sendo liberada para uso privado
+                e comercial em <strong>1994</strong>.
+            </li>
+            <li>A internet é, atualmente, o principal meio de comunicação do planeta,
+                com mais de <mark>5 bilhões de usuários</mark>.
+            </li>
+        </ul>
+        <h3 id="Importância"><p><i>Importância</i></p></h3>
+        <blockquote>A internet, uma invenção revolucionária que conecta bilhões de pessoas ao redor 
+            do mundo, tem desempenhado um papel fundamental na sociedade moderna.
+            Desde seu advento, ela tem transformado a maneira como vivemos, experimentamos,
+            nos comunicamos e como acessamos informações.</blockquote>
+
+        <p><h3 id="Vantagem"><i>Quais as vantagens e benefícios da internet?</i></h2></p>
+        <blockquote>A internet apresenta benefícios não só pela praticidade, mas também pela
+            oportunidade de utilizar o raciocínio e manter ou até melhorar a saúde mental
+            de inúmeras maneiras através do estímulo de atividade cerebral que possibilita.</blockquote>
+
+        <h3 id="Benefício"><p><i>Qual benefício da internet?</i></p></h3>
+        <blockquote>Entre os inúmeros benefícios da internet estão: servir de enciclopédia mundial,
+            realizar comprar de maneira prática, atividades de lazer, se informar,
+            usar Internet Banking, diminuição de distâncias, buscar empregos, quebra de fronteiras,
+            educação chega onde a educação formal pode não chegar de forma efetiva.</blockquote>
+
+        <h3 id="Perigo"><p><i>Os perigos da Internet: como reconhecer e evitá-los?</i></p></h3>
+        <blockquote>Vírus, golpes e vazamento de dados são apenas alguns dos riscos da internet.
+            E, embora a maioria deles possa afetar qualquer indivíduo online,
+            alguns são particularmente perniciosos para crianças e adolescentes. Descubra,
+            neste artigo, os principais perigos da internet e como se proteger contra eles.</blockquote>
+
+        <p><strong>Os 7 maiores perigos da Internet que todo mundo enfrenta.</p></strong>
+        <ol>
+            <li>Falta de privacidade</li>
+            <li>Engenharia social e golpes virtuais</li>
+            <li>Software malicioso</li>
+            <li>Vulnerabilidades dos navegadores</li>
+            <li>Violação de dados</li>
+            <li>Fake News</li>
+            <li>Doxing</li>
+            <ul><p>
+            <li> Pratica maliciosa que consiste na exposição não autorizada
+                de informações de identificação da vítima na internet.
+            </li></p></ul>
+        </ol></p>
+
+        
+
+
+        <h5 id="Referências"><p>Referências</p>
+        <p><a href="https://www.portalinsights.com.br/perguntas-frequentes/qual-a-importancia-e-os-beneficios-da-internet-nos-dias-atuais#:~:text=Entre%20os%20in%C3%BAmeros%20benef%C3%ADcios%20da,n%C3%A3o%20chegar%20de%20forma%20efetiva."> Portal insights</a></p>
+        <a href="https://brasilescola.uol.com.br/informatica/internet.htm#:~:text=A%20hist%C3%B3ria%20da%20internet%20teve,para%20fins%20privados%20e%20comerciais." title="Clique Aqui"> Brasil Escola</a>
+        <p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/mark"> Developer Mozzila</a></p>
+       </h5>
+    </body>
+</html>
