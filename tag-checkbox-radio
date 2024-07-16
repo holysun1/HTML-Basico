@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <title>Formulario</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Simples</title>
+</head>
+<body>
+    <form name="sign up" onsubmit="alert('Enviado')" autocomplete="on" method="post" action="#">
+        Nome <input type="text" name="name"/><br>
+        Idade <input type="number" name="idade"/ min="0"><br>
+        Senha <input type="password" name="password"/><br>
+        E-mail <input type="email"/><br>
+        Data <input type="date"><br>
+        <button type="submit"> Enviar </button><br>
+        <button type="reset">Reset</button><br>
+        Checkbox <input type="checkbox"><br>
+        Volume <input type="range" value="0"/><br>
+        File <input type="file"><br>
+        Radio <input type="radio" name="sim"/><br>
+        <label>cargo</label>
+        <select name="role">
+            <option value="">selecione o cargo</option>
+            <option value="gerente">gerente</option>
+            <option value="diretor">diretor</option>
+            <option value="funcionario">funcionario</option>
+        </select>
+        
+        
+    </form>
+</body>
+</html>
