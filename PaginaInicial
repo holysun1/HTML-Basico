@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinica Bem Estar</title>
+    <link rel="stylesheet" href="base.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="menu">
+            <ul>
+                <li><a href="Clinica.html">Página Principal</a></li><br>
+                <li><a href="Clinica2.html">Sobre a Clínica</a></li><br>
+                <li><a href="Clinica3.html">Horário de Atendimento</a></li><br>
+                <li><a href="Clinica4.html">Contato</a></li><br>
+            </ul>
+        </div>
+
+        <div class="main">
+            <h1>
+            <div class="header" align="center">
+                Clinica Bem Estar</br>
+                <img width="200" src="C:\Users\diego\OneDrive\Área de Trabalho\123.avif">
+            </div></h1>
+
+    
+            <div class="content">
+            Clínica é toda atividade de Medicina, 
+            e por extensão, de outros profissionais
+            da área da saúde, atividades estas que
+            envolvem cuidado, promoção de saúde,
+            prevenção e/ou terapia pós dano ou
+            pós adoecimento, envolvendo escuta,
+            diagnóstico e orientação/tratamento.
+            </div>
+    
+            <div class="footer">
+                <img width="250" src="C:\Users\diego\OneDrive\Área de Trabalho\medica-sorri-para-paciente-idosa-em-clinica--1024x685.png"> 
+                <img width="250" src="C:\Users\diego\OneDrive\Área de Trabalho\iStock-1211396399-1-1024x683.jpg">
+                <img width="250" src="C:\Users\diego\OneDrive\Área de Trabalho\entenda-como-atrair-pacientes-para-sua-clinica-medica-20220310162017.jpg.jpg">
+            </div>
+        </div>
+    </div>
+</body>
+</html>
